@@ -138,3 +138,4 @@ You can add multiple IDs seperated by space.
 * [gautamajay52](https://github.com/gautamajay52/TorrentLeech-Gdrive)
 * [![CopyLeft](https://telegra.ph/file/b514ed14d994557a724cb.jpg)](https://telegra.ph/file/fab1017e21c42a5c1e613.mp4 "CopyLeft Credit Video")
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
