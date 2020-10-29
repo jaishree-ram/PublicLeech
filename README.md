@@ -117,7 +117,7 @@ You can add multiple IDs seperated by space.
 * if file is larger than `TG_MAX_FILE_SIZE`, [read this](https://t.me/c/1434259219/113).
 
 * if file is a TAR archive, [read this](https://t.me/c/1434259219/104) to know how to uncompress.
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Issues or Feature Requests
 
@@ -137,4 +137,4 @@ You can add multiple IDs seperated by space.
 * [rClone Team](https://github.com/rclone/rclone)
 * [gautamajay52](https://github.com/gautamajay52/TorrentLeech-Gdrive)
 * [![CopyLeft](https://telegra.ph/file/b514ed14d994557a724cb.jpg)](https://telegra.ph/file/fab1017e21c42a5c1e613.mp4 "CopyLeft Credit Video")
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
